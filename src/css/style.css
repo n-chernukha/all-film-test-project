@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, FreeSans, "Liberation Sans";
     font-size: 12px;
-    background: url(images/background1.jpg) #000000 no-repeat top center;
+    background: url(../../images/background1.jpg) #000000 no-repeat top center;
 }
 
   .top-space {
@@ -329,7 +329,7 @@ position: relative;
 
 .star-icon {
   position: absolute;
-  background: url(images/icon/favorites2.png) center no-repeat;
+  background: url(../../images/icon/favorites2.png) center no-repeat;
   width: 20px;
   height: 20px;
   left: 10px;
